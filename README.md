@@ -1,5 +1,5 @@
 # Projects
-
+This repository is a series of projects of I've practiced learning Data Analyst in Python, Data Scientist in Python, Data Engineer paths with Dataquest.io. You can check [my complete data analyst and data scientist portfolio here](https://github.com/creativesarjun/data-analyst-and-data-scientist-portfolio) and [my complete data engineering portfolio here](https://github.com/creativesarjun/data-engineering-portfolio).
 
 ## Data Analyst in Python
 * [Project: Prison Break](https://github.com/creativesarjun/projects/blob/main/project-1-prison-break.ipynb)
